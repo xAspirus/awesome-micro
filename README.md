@@ -1,2 +1,2 @@
-# cool-micro
-Better syntax highlighting and theme for the micro text editor.
+# awesome-micro
+Syntax highlighters for micro editor.
