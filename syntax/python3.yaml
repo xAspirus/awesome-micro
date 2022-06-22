@@ -33,9 +33,6 @@ rules:
   - number: "\\b0x[0-9A-Fa-f]+\\b"             # 0xdeadbeef
   - number: "\\b[0-9]+e-?[0-9]+\\b"            # 3.14e-10
 
-  - error: "\\s\\s"
-  - normal: "\\s{4}"
-
   # 'string'
   - string:
       start: "\'"

@@ -24,6 +24,13 @@ color-link string.escape "brightred"
 color-link truthy        "italic brightgreen"
 color-link falsy         "italic brightred"
 color-link path          "underline brightgreen"
+color-link header        "bold brightwhite"
+color-link header1       "bold brightred"
+color-link header2       "bold brightyellow"
+color-link header3       "bold brightgreen"
+color-link header4       "bold brightblue"
+color-link header5       "bold brightmagenta"
+color-link header6       "bold brightcyan"
 
 # Editor 
 color-link gutter-error        "red"
